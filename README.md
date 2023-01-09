@@ -1,4 +1,4 @@
-# Gesture Recognition Case study Assignment [![]((https://github.com/parmesh10/Gesture-Recognition.git)
+# Gesture Recognition Case study Assignment
 
 
 Developed by:
